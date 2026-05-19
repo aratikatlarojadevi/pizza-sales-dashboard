@@ -37,12 +37,13 @@ Total Orders
 Average Pizzas Per Order
 
 DASHBOARD PAGES:
-1️⃣ Home Dashboard
+1️.Home Dashboard
 Sales overview
 Daily & monthly order trends
 Sales by category and pizza size
 Total pizzas sold by category
-2️⃣ Best/Worst Sellers Dashboard
+
+2️.Best/Worst Sellers Dashboard
 Top 5 pizzas by revenue
 Top 5 pizzas by quantity
 Top 5 pizzas by total orders
